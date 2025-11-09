@@ -1,0 +1,3 @@
+codigo;nome;volume_inicial;vmin;vmax;tipo;jusante;posto
+1;UHE1;10000;0;12000;RV;-;1
+2;UHE2;10000;0;12000;RV;-;2

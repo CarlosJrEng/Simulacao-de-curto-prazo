@@ -1,0 +1,3 @@
+codigo;nome;pmin;pmax;Ton;Toff;Status_inicial;ton/toff_inicial;custo;barra;Submercado
+1;GT1;5;15;5;5;0;0;10;2;1
+2;GT2;5;20;5;5;0;0;25;13;1
